@@ -1,0 +1,3 @@
+welcome to chamu's interview questions
+selenium - Tell code for the following scenario - launch chrome -> hit an url -> click a button in home page opens an alert -> enter the title of the page in the alert -> back to home page and assert it
+testng - hierarchy for annotations
